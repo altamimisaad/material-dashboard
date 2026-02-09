@@ -158,4 +158,3 @@ st.download_button(
     "filtered_materials.csv",
     "text/csv"
 )
-
